@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1564707005 source:c:\users\connor\documents\c++\snake\snakefunctions.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<time.h>
+	"Snake.h"
+	<windows.h>
+
+1564707144 c:\users\connor\documents\c++\snake\snake.h
+
+1564707187 source:c:\users\connor\documents\c++\snake\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<time.h>
+	"Snake.h"
+	<chrono>
+	<thread>
+
+1566581474 source:c:\users\connor\documents\c++\snakee\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<time.h>
+	"Snake.h"
+	<chrono>
+	<thread>
+
+1564707144 c:\users\connor\documents\c++\snakee\snake.h
+
+1564707005 source:c:\users\connor\documents\c++\snakee\snakefunctions.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<time.h>
+	"Snake.h"
+	<windows.h>
+
